@@ -1,1 +1,1 @@
-# cat-counter
+# first time using js
